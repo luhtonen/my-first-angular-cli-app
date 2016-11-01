@@ -5,7 +5,7 @@
   "angular-cli": {},
   "scripts": {
     "start": "ng serve",
-    "nggen": "ng generate",
+    "ng-gen": "ng generate",
     "lint": "tslint \"src/**/*.ts\"",
     "test": "ng test",
     "test-single": "ng test --no-auto-watch --single-run",
